@@ -1,0 +1,158 @@
+header{
+
+    text-align: center;
+    font-size: 60px;
+    color: rgb(155, 47, 47);
+    padding-bottom: 100px;
+
+}
+
+body{
+    
+    background-image: radial-gradient(circle, red, green, blue);
+    
+}
+
+.tictactoe{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.tictactoe-img{
+
+    display: block;
+
+    width: 700px;
+
+    height: 350px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.tictactoe-link{
+
+    font-size: 35px;
+    color: yellow;
+}
+
+.connect4{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.connect4-img{
+
+    display: block;
+
+    width: 700px;
+
+    height: 350px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.connect4-link{
+
+    font-size: 35px;
+    color: yellow;
+
+}
+
+.blackjack{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.blackjack-img{
+
+    display: block;
+
+    width: 700px;
+
+    height: 350px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.blackjack-link{
+
+    font-size: 35px;
+    color: yellow;
+
+}
+
+.coinflip{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.coinflip-img{
+
+    display: block;
+
+    width: 700px;
+
+    height: 350px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.coinflip-link{
+
+    font-size: 35px;
+    color: yellow;
+}
+
+.diceroll{
+
+    text-align: center;
+    padding-bottom: 100px;
+
+}
+
+.diceroll-img{
+
+    display: block;
+
+    width: 700px;
+
+    height: 350px;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+}
+
+.diceroll-link{
+
+    font-size: 35px;
+    color: yellow;
+
+}
+
+footer{
+
+    color: aqua;
+
+}
